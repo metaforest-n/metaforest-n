@@ -14,6 +14,9 @@ This project builds a web3-game based on the CarbonEmission protocol. In this ga
 4) You can burn your carbon energy(CET) to water for your own trees or your friend's trees, watering can make the trees grow bigger and more beautiful<br>
 5) Your friends can turn your carbon emissions to a bomb in a limited time and fire it to attack your trees, the bomb will wither your tree <br>
 6) You can restore the health of your wilted tree by burnning your carbon energy(CET) to water it<br>
+This game is not just a game between friends, but can also be a community built-in game. Once a tree NFT is transferred to a community-run smart contract, community members can fire bombs and water the tree. The lower the carbon emission of the smart contract, the healthier the tree will be; and the more eco-friendly the community members are, the bigger the tree will grow.<br>
+
+Translated with www.DeepL.com/Translator (free version)
 ![image](https://user-images.githubusercontent.com/106387391/171183224-1d83d599-8fc5-4e1e-945b-e478fc19f686.png)
 <br><br>
 
