@@ -25,7 +25,7 @@ Contract addresses on polygon mumbai network: <br>
 3) metaForest CarbonEmission address: 0x75caB86e98106131D30c982b9b70b74241c31199 <br>
 4) metaForestCore address: 0xd5213484bEdD3932E7a909bF2B847F75514Bb9D7 <br>
 
-# Tech:
+# Tech
 Truffle
 Infura
 Polygon
