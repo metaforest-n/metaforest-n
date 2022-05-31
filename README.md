@@ -15,7 +15,7 @@ This project builds a web3-game based on the CarbonEmission protocol. In this ga
 5) You can restore the health of your wilted tree by burnning your carbon energy(CET) to water it<br><br>
 
 
-# How to view our work:<br>
+# How to view our work<br>
 View our vedio: https://www.youtube.com/channel/UCMRqi8IavOgiJjKRvTSR6WA <br>
 Use your wallet mobile APP to open DAPP link: https://metaforest.fun/  <br>
 View our code:https://github.com/metaforest-n?tab=repositories <br>
