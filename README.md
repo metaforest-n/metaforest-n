@@ -7,7 +7,7 @@ This game hopes to motivate individuals/communities to participate in low-carbon
     
 This project builds an protocol to record every account's carbon emissions on blockchain according to their gas consume. <br>
 
-This project builds a game based on the CarbonEmission protocol. In this game:<br>
+This project builds a web3-game based on the CarbonEmission protocol. In this game:<br>
 1) You can live a carbon zero life to earn carbon energy(CET) <br>
 2) You can also donate or adopt tree NFTs for free, your donation will contribute to reforest the Spain Alcoroches Natural Park or Australian National Park suffered from forest fire<br>
 3) You can burn your carbon energy(CET) to water for your own trees or your friend's trees, watering can make the trees grow bigger and more beautiful<br>
